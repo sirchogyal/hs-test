@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(165, 169, 234);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#cover {
+    font: 5em Comic Sans Ms;
+    color:rgb(13, 244, 113);
+    display: grid;
+    place-items: center;
+    text-align: center;
+    width: 700px;
+    height: 400px;
+    border: 3px solid #0059dd;
+}
